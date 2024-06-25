@@ -1,0 +1,8 @@
+.team-bar{
+    border: solid 3px black;
+    display:flex
+
+}
+.team-select{
+    display:flex
+}

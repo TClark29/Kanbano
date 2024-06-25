@@ -1,0 +1,13 @@
+.board-wrapper{
+    border: solid 3px black;
+    display: flex
+}
+
+.board-select{
+    display: flex;
+}
+
+.add-board{
+    height: 200px;
+    width: 200px;
+}

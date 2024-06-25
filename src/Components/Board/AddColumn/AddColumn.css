@@ -1,0 +1,9 @@
+.add-column{
+
+    width: 300px;
+    border: solid black 3px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

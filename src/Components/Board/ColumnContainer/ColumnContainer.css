@@ -1,0 +1,22 @@
+.column{
+    height: 600px;
+    width: 300px;
+    border: solid gold 3px;
+}
+.column-header{
+    background-color: brown;
+    height: 70px;
+}
+
+.column-dragged{
+    height: 600px;
+    width: 300px;
+    background-color: gray;
+
+}
+
+.new-task{
+    display: flex;
+    border: solid red 4px;
+    justify-content: center;
+}
